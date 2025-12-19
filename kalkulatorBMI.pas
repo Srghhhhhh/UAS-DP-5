@@ -161,7 +161,8 @@ begin
         Garis;
     end;
 
-    RekapBMI; //memanggil procedure rekapbmi
+    RekapBMI; //memanggil procedure rekapBMI
     writeln('Tekan ENTER untuk keluar...');
     readln;
 end.
+
