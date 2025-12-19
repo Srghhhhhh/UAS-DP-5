@@ -52,7 +52,7 @@ begin
 end;
 
 
-procedure Garis; //membuata tampilan garis-garis dengan procedure
+procedure Garis; //membuat tampilan garis-garis dengan procedure
 begin
     writeln('================================================');
 end;
@@ -165,4 +165,5 @@ begin
     writeln('Tekan ENTER untuk keluar...');
     readln;
 end.
+
 
