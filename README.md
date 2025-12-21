@@ -12,7 +12,7 @@ NAMA KELOMPOK:
 # Link Dokumentasi
 https://drive.google.com/drive/folders/1uaXMDwXaVOCrwUFNhPstK704Y8oq8-Rm?usp=drive_link
 # Link Youtube
-https://youtu.be/dozPmCWWu8s?si=cU83SsQpEVQWJU4s
+https://youtu.be/afScd2697rY?si=J88MnM7NTxzl_ef3
 
 
 
