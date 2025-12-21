@@ -9,8 +9,10 @@ NAMA KELOMPOK:
                
 - Yehezkiel Saragih (251401060)
 
-# Link Dokumentasi dan Youtube
+# Link Dokumentasi
 https://drive.google.com/drive/folders/1uaXMDwXaVOCrwUFNhPstK704Y8oq8-Rm?usp=drive_link
+# Link Youtube
+https://youtu.be/dozPmCWWu8s?si=cU83SsQpEVQWJU4s
 
 
 
