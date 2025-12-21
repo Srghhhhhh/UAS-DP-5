@@ -10,7 +10,7 @@ NAMA KELOMPOK:
 - Yehezkiel Saragih (251401060)
 
 # Link Dokumentasi
-https://drive.google.com/drive/folders/1uaXMDwXaVOCrwUFNhPstK704Y8oq8-Rm?usp=drive_link
+https://drive.google.com/drive/folders/1b6PdSVZKptfk2tfm1-R5-13Ds2wXHcQe
 # Link Youtube
 https://youtu.be/afScd2697rY?si=J88MnM7NTxzl_ef3
 
